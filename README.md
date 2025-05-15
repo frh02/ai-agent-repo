@@ -2,7 +2,7 @@
 
 LangGraph Blog Refiner is an AI-powered tool that refines and improves blog posts from Medium using a multi-step agent loop built with [LangGraph](https://github.com/langchain-ai/langgraph) and LangChain. This project reads a Medium article, generates a refined version, and iteratively improves it through a reflection loop.
 
-![Agent Workflow Architecture](image.png)
+![Agent Workflow Architecture](iai-agent-repo/medium-agent/image.png)
 
 ## Features
 
