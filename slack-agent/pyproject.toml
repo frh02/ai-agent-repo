@@ -17,7 +17,8 @@ dependencies = [
     "langchain-ollama (>=0.3.2,<0.4.0)",
     "slack-sdk (>=3.35.0,<4.0.0)",
     "requests (>=2.32.3,<3.0.0)",
-    "mcp (>=1.10.1,<2.0.0)"
+    "mcp (>=1.10.1,<2.0.0)",
+    "mcp-python-client (>=0.1.9,<0.2.0)"
 ]
 
 
